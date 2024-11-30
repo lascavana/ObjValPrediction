@@ -1,6 +1,6 @@
 # Learning optimal objective values for MILP
 
-Implementation of the paper entitled "Learning optimal objective values for MILP" by Lara Scavuzzo, Karen Aardal and Neil Yorke-Smith.
+Implementation of the [paper](https://arxiv.org/abs/2411.18321) entitled "Learning optimal objective values for MILP" by Lara Scavuzzo, Karen Aardal and Neil Yorke-Smith.
 
 # Requirements
 The following packages are needed.
